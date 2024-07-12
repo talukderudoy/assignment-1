@@ -92,7 +92,7 @@ body{
 }
 /* banner end */
 
-.development {
+.deve {
     max-width: 1045px;
     height: 1300px;
     margin: 0 auto;
@@ -102,12 +102,12 @@ body{
     background: rgba(13, 19, 33, 0.02);
 }
 
-.dev-container {
+.deve-contain {
     margin: 0 auto;
     margin-top: 25px;
 }
 
-.container-heading {
+.contain-heading {
     max-width: 100%;
     height: 160px;
 }
@@ -134,7 +134,7 @@ body{
     font-weight: 400;
 }
 
-.codding-chalange {
+.codding {
     border-radius: 16px;
     background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
     max-width: 100%;
@@ -178,7 +178,7 @@ body{
     margin-left: 100px;
 }
 
-.modern-system {
+.modern {
     border-radius: 16px;
     background: linear-gradient(270.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
     margin-top: 40px;
@@ -189,17 +189,17 @@ body{
     align-items: center;
 }
 
-.modern-system-text {
+.modern-text {
     margin-left: 40px;
 }
 
-.modern-system-text h3 {
+.modern-text h3 {
     color: rgba(13, 19, 33, 0.7);
     font-size: 20px;
     font-weight: 700;
 }
 
-.modern-system-text button {
+.modern-text button {
     margin-top: 50px;
     width: 140px;
     height: 40px;
@@ -209,14 +209,14 @@ body{
     background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
 }
 
-.modern-system-text button a {
+.modern-text button a {
     text-decoration: none;
     color: rgb(13, 19, 33);
     font-size: 16px;
     font-weight: 600;
 }
 
-.modern-system-text p {
+.modern-text p {
     margin-top: 50px;
     color: rgb(13, 19, 33);
     font-size: 14px;
@@ -264,6 +264,280 @@ body{
     color: rgb(13, 19, 33);
     font-size: 14px;
     font-weight: 400;
+}
+.inspiration {
+    max-width: 1045px;
+    height: 740px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.inspiration-header {
+    width: 100%;
+    height: 120px;
+}
+
+.header-content {
+    width: 65%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header-content h1 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.header-content p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+
+}
+
+.inspiration-container {
+    width: 100%;
+    height: 570px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 45px;
+}
+
+iframe {
+    width: 950px;
+    height: 480px;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+/* inspiration section ends here */
+
+/* current target section starts */
+
+
+.target {
+    max-width: 1045px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 90px;
+    /* border: 3px solid red; */
+}
+
+.target-header {
+    width: 100%;
+    height: 35%;
+    /* border: 3px solid red; */
+}
+
+.target-header-content {
+    width: 65%;
+    height: 100%;
+    /* border: 3px solid red; */
+    margin: 0 auto;
+    text-align: center;
+}
+
+.target-header-content h1 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.target-header-content p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+
+}
+
+.target-body {
+    width: 100%;
+    height: 65%;
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.htmlbox {
+    width: 33%;
+    height: 85%;
+    /* border: 3px solid red; */
+    margin-right: 55px;
+    padding: 35px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.cssbox {
+    width: 33%;
+    height: 85%;
+    /* border: 3px solid red; */
+    padding: 35px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.java {
+    width: 33%;
+    height: 85%;
+    /* border: 3px solid red; */
+    margin-left: 55px;
+    padding: 35px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.head {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.pera {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.ancore {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/* target section ends here */
+
+/* support section starts */
+
+.support {
+    max-width: 1045px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+    border-radius: 16px;
+}
+
+.support-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.support-container h1 {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.support-container p {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+
+}
+
+.support-container input {
+    width: 530px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15); 
+    border: none;
+    border-radius: 8px;
+    padding-left: 30px;
+    background: rgb(255, 255, 255);
+    margin-left: 175px;
+
+}
+
+.input-contant {
+    margin-top: 15px;
+    width: 100%;
+    height: 48px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#bt a {
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#bt {
+    width: 110px;
+    height: 48px;
+    border-radius: 8px;
+    margin-right: 200px;
+}
+
+
+
+/* supports section ends */
+
+/* footer section starts */
+.footer {
+    max-width: 1320px;
+    height: 135px;
+    margin: 0 auto;
+    margin-top: 90px;
+    background: rgba(13, 19, 33, 0.03);
+}
+
+.footer-container {
+    max-width: 1045px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.footer-container .text h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.icons {
+    height: 100%;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 
